@@ -1,0 +1,12 @@
+var listSet = require("./first-module.js");
+listSet.listPush('If');
+listSet.listPush('Demons');
+listSet.listPush('Exist');
+listSet.listPush('I');
+listSet.listPush('am');
+listSet.listPush('confident');
+listSet.listPush('they');
+listSet.listPush('reside');
+listSet.listPush('within');
+listSet.listPush('me');
+console.log(listSet.listReturn());
